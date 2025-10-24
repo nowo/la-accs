@@ -1,0 +1,1 @@
+import{v as s}from"./BlNbczg5.js";const e=(e,t)=>{const n=[s("div",{class:"message-content-icon"})];return t&&n.push(s("div",{class:"message-content-title"},t)),e&&n.push(s("div",{class:"message-content-msg"},e)),s("div",{class:"message-content"},n)};export{e as m};

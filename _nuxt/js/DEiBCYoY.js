@@ -1,0 +1,1 @@
+import{_ as s}from"./BCo6x5W8.js";import{A as t,U as r,V as a}from"./BlNbczg5.js";const e={class:"px-10 py-20 text-center"};const o=s({},[["render",function(s,o){return r(),t("main",e,[a(s.$slots,"default")])}]]);export{o as default};
